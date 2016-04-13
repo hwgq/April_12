@@ -1,11 +1,7 @@
 # April_12
-4月12号
-我的第一次编辑README
+1.April_12 ----  it's a test file for me learning git
 
-本地改动
-i'm doing sth in the newbranch
-<<<<<<< HEAD
+2.April_13 ----  a demo, one way to count the cellHeight with xib.
 
-=======
-我在远程做一次改动再更新到本地
->>>>>>> f2d44a3dd6fc113a41099910a05bff11c394871a
+* set the tableView's property estimatedRowHeight = 100, rowHeight = UITableViewAutomaticDimension
+* add a view in cell under the label,the view should be confirmed the hight\width, and add constrain to cell's buttom
